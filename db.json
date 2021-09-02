@@ -1,0 +1,124 @@
+{
+  "clients": [
+    {
+      "id": 26174,
+      "name": "ESMEE ALFORD",
+      "qty_chargeback": 1,
+      "value_chargeback": 38.92,
+      "qty_sales": 72,
+      "value_total": 32.000,
+      "perc_chargeback": 0.05,
+      "perc_total_chargeback": 0.03
+    },
+    {
+      "id": 2983,
+      "name": "RUDY BARTLETT",
+      "qty_chargeback": 1,
+      "value_chargeback": 38.92,
+      "qty_sales": 58,
+      "value_total": 17.025,
+      "perc_chargeback": 0.05,
+      "perc_total_chargeback": 0.03
+    },
+    {
+      "id": 2305,
+      "name": "RUDY BARTLETT",
+      "qty_chargeback": 1,
+      "value_chargeback": 38.92,
+      "qty_sales": 72,
+      "value_total": 12.258,
+      "perc_chargeback": 0.05,
+      "perc_total_chargeback": 0.03
+    },
+    {
+      "id": 3148,
+      "name": "RICHIE MOSLEY",
+      "qty_chargeback": 1,
+      "value_chargeback": 38.92,
+      "qty_sales": 72,
+      "value_total": 8.000,
+      "perc_chargeback": 0.05,
+      "perc_total_chargeback": 0.03
+    },
+    {
+      "id": 35820,
+      "name": "JAYDAN COBB",
+      "qty_chargeback": 1,
+      "value_chargeback": 38.92,
+      "qty_sales": 72,
+      "value_total": 5.689,
+      "perc_chargeback": 0.05,
+      "perc_total_chargeback": 0.03
+    },
+    {
+      "id": 15698,
+      "name": "AMEERA SHORT",
+      "qty_chargeback": 1,
+      "value_chargeback": 38.92,
+      "qty_sales": 72,
+      "value_total": 32.000,
+      "perc_chargeback": 0.05,
+      "perc_total_chargeback": 0.03
+    },
+    {
+      "id": 7259,
+      "name": "ALISTAIR STWERT",
+      "qty_chargeback": 1,
+      "value_chargeback": 38.92,
+      "qty_sales": 8,
+      "value_total": 5.689,
+      "perc_chargeback": 0.05,
+      "perc_total_chargeback": 0.03
+    },
+    {
+      "id": 5006,
+      "name": "SUMAYAH HAWES",
+      "qty_chargeback": 1,
+      "value_chargeback": 38.92,
+      "qty_sales": 72,
+      "value_total": 32.000,
+      "perc_chargeback": 0.05,
+      "perc_total_chargeback": 0.03
+    },
+    {
+      "id": 26174,
+      "name": "ESMEE ALFORD",
+      "qty_chargeback": 1,
+      "value_chargeback": 38.92,
+      "qty_sales": 72,
+      "value_total": 32.000,
+      "perc_chargeback": 0.05,
+      "perc_total_chargeback": 0.03
+    },
+    {
+      "id": 26174,
+      "name": "ESMEE ALFORD",
+      "qty_chargeback": 1,
+      "value_chargeback": 38.92,
+      "qty_sales": 72,
+      "value_total": 32.000,
+      "perc_chargeback": 0.05,
+      "perc_total_chargeback": 0.03
+    },
+    {
+      "id": 26174,
+      "name": "ESMEE ALFORD",
+      "qty_chargeback": 1,
+      "value_chargeback": 38.92,
+      "qty_sales": 72,
+      "value_total": 32.000,
+      "perc_chargeback": 0.05,
+      "perc_total_chargeback": 0.03
+    },
+    {
+      "id": 26174,
+      "name": "ESMEE ALFORD",
+      "qty_chargeback": 1,
+      "value_chargeback": 38.92,
+      "qty_sales": 72,
+      "value_total": 32.000,
+      "perc_chargeback": 0.05,
+      "perc_total_chargeback": 0.03
+    }
+  ]
+}
