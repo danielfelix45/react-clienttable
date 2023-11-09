@@ -1,23 +1,21 @@
-# PROJETO TABELA DE CLIENTES
+# React Client Table
 
-Um projeto React simples usando API REST "json-server" para simular um cadastro de clientes.
+Este é um projeto simples de uma tabela de clientes desenvolvido com React. A tabela é interativa e permite a visualização e edição de informações sobre clientes de forma eficiente.
 
-Para criar o projeto:
+## Funcionalidades
 
-### npx create-react-app "nome do projeto"
+- Exibição de uma tabela responsiva com informações dos clientes.
+- Classificação (ordenação) dos clientes por coluna.
+- Pesquisa (filtro) dinâmica para encontrar clientes específicos.
+- Edição rápida de informações diretamente na tabela.
 
-Para estilizar o projeto:
+## Pré-requisitos
 
-### yarn add Styled-components
+Antes de começar, certifique-se de ter o Node.js instalado em sua máquina. Você pode baixá-lo em [nodejs.org](https://nodejs.org/).
 
-Para criar a API REST json-server:
+## Instalação
 
-### yarn add json-server
+1. Clone este repositório em sua máquina:
 
-Para dar start no projeto:
-
-### yarn start
-
-Para dar start no json-server:
-
-### yarn server
+```bash
+git clone https://github.com/danielfelix45/react-clienttable.git
